@@ -85,8 +85,8 @@ Mon terrain de jeu couvre :
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyox&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&langs_count=6" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyoxxx&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoxxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&langs_count=6" width="49%"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Mon terrain de jeu couvre :
   <img src="https://img.shields.io/badge/🌐_Site_Web-ilyox.fr-00b4d8?style=for-the-badge&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://github.com/Ilyox" target="_blank">
+<a href="https://github.com/ilyoxxx" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Ilyox-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
