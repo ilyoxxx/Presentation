@@ -1,18 +1,21 @@
 <div align="center">
 
-<!-- CAPSULE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=220&section=header&text=Ilyox&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Electronics%20%7C%20Networks%20%7C%20Dev&descAlignY=60&descSize=18&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:00b4d8,100:0077b6&height=260&section=header&text=Ilyox&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%E2%80%A2%20Networks%20%E2%80%A2%20Electronics%20%E2%80%A2%20Dev&descAlignY=62&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <a href="https://ilyox.fr" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Pentester+%26+Network+Analyst;Embedded+Systems+Enthusiast;Always+building%2C+always+learning+%F0%9F%A7%A0;%E2%86%92+Visit+ilyox.fr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Ilyes+%E2%80%94+alias+Ilyox+%F0%9F%94%8D;16+ans+%7C+Autodidacte+%7C+Curieux+compulsif;Pentester+en+devenir+%7C+Network+Analyst;Je+casse+pour+mieux+comprendre+%F0%9F%94%A7;Toujours+apprendre.+Toujours+construire.+%E2%86%92+ilyox.fr" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- WEBSITE BADGE -->
 <a href="https://ilyox.fr" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20ilyox.fr-Visit%20My%20Site-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8" alt="Website"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20ilyox.fr-Visit%20My%20Site-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8" />
+</a>
+&nbsp;
+<a href="https://github.com/ilyoxxx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ilyoxxx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -21,94 +24,158 @@
 
 ---
 
-## 👤 Qui suis-je ?
+## `$ whoami`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ilyox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4&count_private=true" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyoxxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4&count_private=true" width="400"/>
 
-Je suis **Ilyox**, un passionné de technologie qui aime comprendre les systèmes de fond en comble — du circuit imprimé jusqu'à l'infrastructure cloud.
+```bash
+ilyes@ilyox:~$ cat about.txt
+```
 
-Mon terrain de jeu couvre :
-- 🔐 La **cybersécurité** offensive et défensive
-- 📡 Les **réseaux** et leur supervision
-- 🔌 L'**électronique** et les systèmes embarqués
-- 💻 Le **développement** multi-langage
-- ⚙️ L'**automatisation** et l'optimisation système
+Je suis **Ilyes**, alias **Ilyox** — 16 ans, autodidacte, et passionné à l'os par tout ce qui touche à la tech.
 
-🌐 **Mon site :** [ilyox.fr](https://ilyox.fr)
+Quand quelque chose fonctionne, je **dois** savoir pourquoi.  
+Je teste, je casse, je reconstruis. Je passe des heures sur un détail jusqu'à le maîtriser.
+
+Mon terrain de jeu :
+
+```
+[+] Cybersécurité offensive & défensive
+[+] Réseaux & infrastructures
+[+] Systèmes Linux
+[+] Électronique embarquée
+[+] Développement web & scripting
+[+] Automatisation & monitoring
+```
+
+> *Je préfère comprendre en profondeur plutôt que juste utiliser.*
+
+🌐 **[ilyox.fr](https://ilyox.fr)**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Stack & Compétences
+## `$ cat skills.json`
 
 <div align="center">
 
 ### 🔐 Cybersécurité & Réseaux
-<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" /><br/>
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
-### 💻 Développement
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
+
+<br/>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat-square&logoColor=white)
+
+---
+
+### 💻 Développement & Scripting
+
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,php&theme=dark" />
 
-### 🔌 Électronique & Embarqué
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" /><br/>
-![Sensors](https://img.shields.io/badge/Capteurs_&_Microcontrôleurs-00b4d8?style=flat-square)
-![Embedded](https://img.shields.io/badge/Systèmes_embarqués-0077b6?style=flat-square)
+---
 
-### ☁️ Infra & Outils
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+### 🔌 Électronique & Embarqué
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+
+<br/>
+
+![Microcontrôleurs](https://img.shields.io/badge/Microcontr%C3%B4leurs-00b4d8?style=flat-square)
+![Capteurs](https://img.shields.io/badge/Capteurs_%26_Actionneurs-0077b6?style=flat-square)
+![Systèmes embarqués](https://img.shields.io/badge/Syst%C3%A8mes_embarqu%C3%A9s-023e8a?style=flat-square)
+
+---
+
+### ☁️ Infra, Outils & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 Domaines d'expertise
+## `$ ls -la mindset/`
+
+<div align="center">
+
+| Trait | Description |
+|:---:|:---|
+| ⚡ **Apprentissage rapide** | Si ça m'intéresse, je l'apprends vite — et en profondeur |
+| 🔍 **Curiosité compulsive** | Je ne m'arrête pas à "ça marche", je veux savoir *pourquoi* |
+| 🏗️ **Builder** | Je préfère créer des vrais projets plutôt que suivre des tutos |
+| 🎯 **Perfectionnisme** | Je peux passer des heures sur un détail jusqu'à ce que ce soit propre |
+| 🤖 **Autonomie** | J'apprends seul, j'expérimente seul, je cherche seul — et j'adore ça |
+| 🧩 **Pensée systémique** | Je veux comprendre les systèmes de A à Z : matériel → cloud |
+
+</div>
+
+---
+
+## `$ nmap -sV expertise.ilyox.fr`
 
 <div align="center">
 
 | 🔐 Cybersécurité | 📡 Réseaux | 🔌 Électronique | 💻 Dev |
 |:---:|:---:|:---:|:---:|
-| Pentest basics | Protocoles TCP/IP | Arduino | Python |
+| Pentest basics | TCP/IP stack | Arduino | Python |
 | Analyse réseau | Supervision | Capteurs | Bash |
-| Sécurisation | Infrastructure | Microcontrôleurs | JS / HTML / CSS |
+| Hardening | Infrastructure | Microcontrôleurs | JS / HTML / CSS |
 | OSINT | Monitoring | Systèmes embarqués | PHP |
+| Burp / Metasploit | Wireshark / Nmap | Protocoles série | Docker / Git |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ htop --user=ilyoxxx`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyoxxx&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoxxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&langs_count=6" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyoxxx&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=cdd6f4&dates=8b949e" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoxxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&langs_count=8" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyoxxx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=00b4d8" width="100%"/>
 
 </div>
 
 ---
 
-## 🌐 Me retrouver
+## `$ ping ilyox.fr`
 
 <div align="center">
+
+```
+PING ilyox.fr — Toujours en ligne. Toujours en train de construire.
+
+64 bytes from ilyox.fr: icmp_seq=1 ttl=64 time=∞ ms  →  Curiosité
+64 bytes from ilyox.fr: icmp_seq=2 ttl=64 time=∞ ms  →  Apprentissage
+64 bytes from ilyox.fr: icmp_seq=3 ttl=64 time=∞ ms  →  Construction
+64 bytes from ilyox.fr: icmp_seq=4 ttl=64 time=∞ ms  →  Compréhension
+```
+
+<br/>
 
 <a href="https://ilyox.fr" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Site_Web-ilyox.fr-00b4d8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_ilyox.fr-0d1117?style=for-the-badge&color=00b4d8&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/ilyoxxx" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Ilyox-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-ilyoxxx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-> *"Toujours curieux, toujours en train de construire."*
+**`> Toujours apprendre. Toujours construire. Toujours comprendre.`**
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
