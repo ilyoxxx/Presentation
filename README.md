@@ -1,223 +1,181 @@
+<div align="center">
 
-# ⚡ ILYOX — Cybersecurity / Networks / Embedded / Dev
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:00b4d8,100:0077b6&height=260&section=header&text=Ilyox&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%E2%80%A2%20Networks%20%E2%80%A2%20Electronics%20%E2%80%A2%20Dev&descAlignY=62&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
+
+<!-- TYPING -->
+<a href="https://ilyox.fr" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Ilyes+%E2%80%94+alias+Ilyox+%F0%9F%94%8D;16+ans+%7C+Autodidacte+%7C+Curieux+compulsif;Pentester+en+devenir+%7C+Network+Analyst;Je+casse+pour+mieux+comprendre+%F0%9F%94%A7;Toujours+apprendre.+Toujours+construire.+%E2%86%92+ilyox.fr" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://ilyox.fr" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20ilyox.fr-Visit%20My%20Site-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8" />
+</a>
+&nbsp;
+<a href="https://github.com/ilyoxxx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ilyoxxx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+</div>
 
 ---
 
-## 🌐 PROFILE
+## `$ whoami`
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyoxxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4&count_private=true" width="400"/>
 
 ```bash
-$ whoami
-ilyes@ilyox:~$ echo "Cybersecurity enthusiast | Builder | System thinker"
+ilyes@ilyox:~$ cat about.txt
 ```
 
-Je suis **Ilyes**, alias **Ilyox**.
+Je suis **Ilyes**, alias **Ilyox** — 16 ans, autodidacte, et passionné à l'os par tout ce qui touche à la tech.
 
-Autodidacte passionné par :
-- la cybersécurité offensive et défensive
-- les réseaux et infrastructures
-- les systèmes Linux
-- l’embarqué et l’électronique
-- le développement et l’automatisation
+Quand quelque chose fonctionne, je **dois** savoir pourquoi.  
+Je teste, je casse, je reconstruis. Je passe des heures sur un détail jusqu'à le maîtriser.
 
-Je ne me contente pas d’utiliser les systèmes :  
-je veux comprendre **comment ils fonctionnent en profondeur**.
+Mon terrain de jeu :
 
-> Build. Break. Understand. Repeat.
+```
+[+] Cybersécurité offensive & défensive
+[+] Réseaux & infrastructures
+[+] Systèmes Linux
+[+] Électronique embarquée
+[+] Développement web & scripting
+[+] Automatisation & monitoring
+```
+
+> *Je préfère comprendre en profondeur plutôt que juste utiliser.*
+
+🌐 **[ilyox.fr](https://ilyox.fr)**
+
+<br clear="right"/>
 
 ---
 
-## 🧠 PHILOSOPHIE
+## `$ cat skills.json`
 
-```txt
-If it works → I break it
-If it breaks → I understand it
-If I understand it → I rebuild it better
-```
+<div align="center">
 
-Je fonctionne avec une logique simple :
+### 🔐 Cybersécurité & Réseaux
 
-- comprendre avant d’utiliser
-- tester avant de croire
-- casser avant de sécuriser
-- automatiser tout ce qui peut l’être
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
+
+<br/>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat-square&logoColor=white)
 
 ---
 
-## 🔥 CORE MINDSET
+### 💻 Développement & Scripting
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,php&theme=dark" />
+
+---
+
+### 🔌 Électronique & Embarqué
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+
+<br/>
+
+![Microcontrôleurs](https://img.shields.io/badge/Microcontr%C3%B4leurs-00b4d8?style=flat-square)
+![Capteurs](https://img.shields.io/badge/Capteurs_%26_Actionneurs-0077b6?style=flat-square)
+![Systèmes embarqués](https://img.shields.io/badge/Syst%C3%A8mes_embarqu%C3%A9s-023e8a?style=flat-square)
+
+---
+
+### ☁️ Infra, Outils & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+</div>
+
+---
+
+## `$ ls -la mindset/`
+
+<div align="center">
 
 | Trait | Description |
-|------|-------------|
-| ⚡ Learning speed | J’apprends vite si c’est concret |
-| 🔍 Curiosity | Je creuse chaque détail |
-| 🏗 Builder | Je crée des systèmes réels |
-| 🎯 Precision | J’optimise jusqu’à propre |
-| 🤖 Autonomy | J’apprends seul |
-| 🧠 Systems thinking | hardware → software → cloud |
+|:---:|:---|
+| ⚡ **Apprentissage rapide** | Si ça m'intéresse, je l'apprends vite — et en profondeur |
+| 🔍 **Curiosité compulsive** | Je ne m'arrête pas à "ça marche", je veux savoir *pourquoi* |
+| 🏗️ **Builder** | Je préfère créer des vrais projets plutôt que suivre des tutos |
+| 🎯 **Perfectionnisme** | Je peux passer des heures sur un détail jusqu'à ce que ce soit propre |
+| 🤖 **Autonomie** | J'apprends seul, j'expérimente seul, je cherche seul — et j'adore ça |
+| 🧩 **Pensée systémique** | Je veux comprendre les systèmes de A à Z : matériel → cloud |
+
+</div>
 
 ---
 
-## 🔐 CYBERSECURITY
+## `$ nmap -sV expertise.ilyox.fr`
 
-### Tools & Skills
+<div align="center">
 
-- Wireshark (network analysis)
-- Nmap (recon & scanning)
-- Burp Suite (web hacking)
-- Metasploit (exploitation)
-- OSINT techniques
-- Linux hardening
-- Log analysis
+| 🔐 Cybersécurité | 📡 Réseaux | 🔌 Électronique | 💻 Dev |
+|:---:|:---:|:---:|:---:|
+| Pentest basics | TCP/IP stack | Arduino | Python |
+| Analyse réseau | Supervision | Capteurs | Bash |
+| Hardening | Infrastructure | Microcontrôleurs | JS / HTML / CSS |
+| OSINT | Monitoring | Systèmes embarqués | PHP |
+| Burp / Metasploit | Wireshark / Nmap | Protocoles série | Docker / Git |
 
-### Concepts
-
-- TCP/IP stack
-- DNS / HTTP / HTTPS
-- Firewalling
-- Vulnerability research
-- Attack surface mapping
+</div>
 
 ---
 
-## 🌐 NETWORKING
+## `$ htop --user=ilyoxxx`
 
-### Stack understanding
+<div align="center">
 
-- IP routing
-- Subnetting
-- NAT / PAT
-- VLANs
-- VPNs
-- Proxy systems
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyoxxx&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=cdd6f4&dates=8b949e" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoxxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&langs_count=8" width="49%"/>
 
-### Practical
+<br/><br/>
 
-- Network sniffing
-- Packet inspection
-- Traffic analysis
-- Infrastructure design
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyoxxx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=00b4d8" width="100%"/>
+
+</div>
 
 ---
 
-## 💻 DEVELOPMENT
+## `$ ping ilyox.fr`
 
-### Languages
+<div align="center">
 
-- Python (automation, tools)
-- JavaScript (web logic)
-- HTML / CSS (UI)
-- PHP (backend basics)
-- Bash (Linux automation)
+```
+PING ilyox.fr — Toujours en ligne. Toujours en train de construire.
 
-### Projects types
-
-- bots
-- dashboards
-- APIs
-- monitoring systems
-- security tools
-
----
-
-## 🔌 EMBEDDED / ELECTRONICS
-
-- Arduino systems
-- Microcontrollers
-- Sensors / actuators
-- Low-level programming logic
-- Embedded debugging
-
----
-
-## ☁️ DEVOPS / SYSTEMS
-
-- Git / GitHub workflows
-- Docker containers
-- Linux servers
-- VPS management
-- CI/CD basics
-- Monitoring systems
-
----
-
-## 📊 SYSTEM DASHBOARD
-
-```bash
-uptime: 99.9%
-status: ACTIVE
-mode: LEARNING / BUILDING
+64 bytes from ilyox.fr: icmp_seq=1 ttl=64 time=∞ ms  →  Curiosité
+64 bytes from ilyox.fr: icmp_seq=2 ttl=64 time=∞ ms  →  Apprentissage
+64 bytes from ilyox.fr: icmp_seq=3 ttl=64 time=∞ ms  →  Construction
+64 bytes from ilyox.fr: icmp_seq=4 ttl=64 time=∞ ms  →  Compréhension
 ```
 
----
+<br/>
 
-## 📈 GITHUB STATS
+<a href="https://ilyox.fr" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_ilyox.fr-0d1117?style=for-the-badge&color=00b4d8&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/ilyoxxx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ilyoxxx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
-![stats](https://github-readme-stats.vercel.app/api?username=ilyoxxx&show_icons=true&theme=tokyonight)
+<br/><br/>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoxxx&layout=compact&theme=tokyonight)
+**`> Toujours apprendre. Toujours construire. Toujours comprendre.`**
 
----
+</div>
 
-## 📡 ACTIVITY
-
-```txt
-Day cycle:
-[✔] Learn new concept
-[✔] Break system
-[✔] Rebuild system
-[✔] Automate process
-```
-
----
-
-## 🧪 PROJECT APPROACH
-
-1. Idea
-2. Research
-3. Prototype
-4. Break it
-5. Fix it
-6. Optimize
-7. Deploy
-
----
-
-## 🧠 THINKING MODEL
-
-```txt
-System = Input → Process → Output
-
-If output is wrong:
-→ inspect process
-→ attack assumptions
-→ rebuild logic
-```
-
----
-
-## 🚀 CURRENT FOCUS
-
-- Cybersecurity deep dive
-- Network infrastructure mastery
-- Linux system engineering
-- Tool building (automation / pentest)
-- Real-world projects
-
----
-
-## 🌍 LINKS
-
-- Portfolio: https://ilyox.fr
-- GitHub: https://github.com/ilyoxxx
-
----
-
-## ⚠️ FINAL STATE
-
-```txt
-Always learning.
-Always building.
-Never static.
-```
-
----
-
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
